@@ -16,7 +16,7 @@ npm run serve
 npm run build
 ```
 
-### Comple Project
+### Compile Project
 ```
 https://naughty-dijkstra-7aabcf.netlify.app/graphics
 ```

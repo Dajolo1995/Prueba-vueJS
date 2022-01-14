@@ -1,5 +1,6 @@
 # vue-test
 
+
 ## Project setup
 ```
 npm install
@@ -13,6 +14,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Comple Project
+```
+https://naughty-dijkstra-7aabcf.netlify.app/graphics
 ```
 
 ### Lints and fixes files
